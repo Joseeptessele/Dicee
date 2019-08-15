@@ -1,14 +1,14 @@
 # Dicee
 
-An IOs application roll two dices random randomly but clicking on a button or by motion detection.  
+An IOs application to simulate two dices randomly rolled by clicking on a button or by motion detection.  
 
 # What I Learned
 
-* ✅IBOutlets & IBActions
-* ✅Variables, Constants e Data types
-* ✅Randomisation
-* ✅Arrays
-* ✅Functions & Motion detection
+* IBOutlets & IBActions ✅
+* Variables, Constants e Data types ✅
+* Randomisation ✅
+* Arrays ✅
+* Functions & Motion detection ✅
 
 # Screenshot
 
